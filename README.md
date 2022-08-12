@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Natã, e sou um estudante da área de <h1/>
-<h1 align="center">TI (Desenvolvimento de Sistemas e Informática)<h1/>
+<h2 align="center">TI (Desenvolvimento de Sistemas e Informática)<h2/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
