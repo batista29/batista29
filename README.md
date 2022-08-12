@@ -1,5 +1,4 @@
-<p align="center">Olá, meu nome é Natã, e sou um estudante da área de </p>
-<p>TI (Desenvolvimento de Sistemas e Informática)<p/>
+<p align="center">Olá, meu nome é Natã, e sou um estudante da área de TI (Desenvolvimento de Sistemas e Informática)<p/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
