@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Olá, meu nome é Natã, e sou um estudante da área de TI <br>(Desenvolvimento de Sistemas, Informática)</h2>
+  <h2>Olá, meu nome é Natã, e sou um estudante na área de TI <br>(Desenvolvimento de Sistemas e Informática)</h2>
 </div>
 
 <div align="center"> 
