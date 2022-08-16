@@ -1,7 +1,9 @@
 <h2 align="center">Olá, meu nome é Natã, e sou um estudante da área de TI (Desenvolvimento de Sistemas, Informática)</h2>
 
-<div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=buzzfps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzfps&layout=compact&langs_count=7&theme=dark"/></div>
+<div align="center"> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
