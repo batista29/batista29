@@ -1,4 +1,7 @@
-<h2 align="center">Olá, meu nome é Natã, e sou um estudante da área de TI (Desenvolvimento de Sistemas, Informática)</h2>
+<div align="center">
+  <h2>Olá, meu nome é Natã, e sou um estudante da área de TI </h2>
+  <p><h2>(Desenvolvimento de Sistemas, Informática)</h2></p>
+</div>
 
 <div align="center"> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
