@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://c.tenor.com/ofYCY_OJQ1kAAAAd/hacker-hack.gif" width="350" height="150" />
-  <img src="https://i.pinimg.com/originals/64/06/6d/64066d694f1963d9181af93962a1d4b8.gif" width="150" height="150" />
+  <img src="https://c.tenor.com/ofYCY_OJQ1kAAAAd/hacker-hack.gif" width="350" height="250" />
+  <img src="https://i.pinimg.com/originals/64/06/6d/64066d694f1963d9181af93962a1d4b8.gif" width="150" height="250" />
   <h1 align="center"> Olá, eu sou o Batista :)</h1>
 </p>
 
