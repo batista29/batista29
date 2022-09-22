@@ -4,11 +4,6 @@
   <h1 align="center"> Olá, eu sou o Batista :)</h1>
 </p>
 
-<p align="center">
-<img height="150em" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ae6342daf9e01e29eadb8dc395ece86272347f4f&rid=giphy.gif&ct=g"/>
-</p>
-
-
 <div align="center"> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact&langs_count=7&theme=dark"/>
