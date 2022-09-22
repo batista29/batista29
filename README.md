@@ -2,11 +2,12 @@
   <img src="http://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" width="500" height="200" />
   <img src="https://i.pinimg.com/originals/64/06/6d/64066d694f1963d9181af93962a1d4b8.gif" width="200" height="200" />
 </p>
-<h1 align="center"> Olá, eu sou o Batista :) </h1>
+
+<h1 align="center"> Olá, eu sou o Batista :) </h1> <img height="150em" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ae6342daf9e01e29eadb8dc395ece86272347f4f&rid=giphy.gif&ct=g"/>
+
 <div align="center"> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact&langs_count=7&theme=dark"/>
-<img height="150em" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ae6342daf9e01e29eadb8dc395ece86272347f4f&rid=giphy.gif&ct=g"/>
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
