@@ -1,15 +1,8 @@
 <p align="center">
-  <img src="http://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" width="500" height="200" />
-  <img src="https://i.pinimg.com/originals/64/06/6d/64066d694f1963d9181af93962a1d4b8.gif" width="200" height="200" />
+  <img src="https://c.tenor.com/ofYCY_OJQ1kAAAAd/hacker-hack.gif" width="350" height="150" />
+  <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif" width="150" height="150" />/>
   <h1 align="center"> Olá, eu sou o Batista :)</h1>
 </p>
-
-<h3 align="center">POSSUO GRANDE INTERESSE EM HACKING, E ESTOU ESTUDANDO <p> PARA APRENDER MAIS SOBRE A ÁREA</p></h3>
-  <p align="center">
-  <img src="https://c.tenor.com/ofYCY_OJQ1kAAAAd/hacker-hack.gif" width="350" height="150" />
-  <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif" width="150" height="150" />
-  </p>
-
 
 <div align="center"> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
