@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://c.tenor.com/ofYCY_OJQ1kAAAAd/hacker-hack.gif" width="450" height="150" />
   <img src="https://i.pinimg.com/originals/64/06/6d/64066d694f1963d9181af93962a1d4b8.gif" width="150" height="150" />
-  <h2 align="center"> Olá, eu sou o Batista, sou um estudante da área de TI: <br>Téc. de Desenvolvimento de Sistemas (SENAI) & Téc. de Informática (NOVOTEC).</h2>
+  <h2 align="center"> Olá, sou o Batista, atualmente estou cursando o curso <br>Téc. de Desenvolvimento de Sistemas (SENAI) & Téc. de Informática (NOVOTEC).</h2>
 </p>
 
 <div align="center"> 
