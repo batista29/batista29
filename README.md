@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" width="400" height="200" />
+  <img src="http://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" width="450" height="200" />
   <img src="https://i.pinimg.com/originals/64/06/6d/64066d694f1963d9181af93962a1d4b8.gif" width="200" height="200" />
 </p>
 <div align="center"> 
