@@ -2,7 +2,7 @@
   <img src="http://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" width="500" height="200" />
   <img src="https://i.pinimg.com/originals/64/06/6d/64066d694f1963d9181af93962a1d4b8.gif" width="200" height="200" />
 </p>
-<p align="center"> Olá, eu sou o Batista :) </p>
+<h1 align="center"> Olá, eu sou o Batista :) </h1>
 <div align="center"> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact&langs_count=7&theme=dark"/>
