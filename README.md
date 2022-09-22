@@ -4,6 +4,13 @@
   <h1 align="center"> Olá, eu sou o Batista :)</h1>
 </p>
 
+<h3 align="center">POSSUO GRANDE INTERESSE EM HACKING, E ESTOU ESTUDANDO <p> PARA APRENDER MAIS SOBRE A ÁREA</p></h3>
+  <p align="center">
+  <img src="https://c.tenor.com/ofYCY_OJQ1kAAAAd/hacker-hack.gif" width="350" height="150" />
+  <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif" width="150" height="150" />
+  </p>
+
+
 <div align="center"> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact&langs_count=7&theme=dark"/>
@@ -21,10 +28,3 @@
 <p align="center">
 <a href="https://instagram.com/batista29_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batista29_" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCrKGX-Oo1nxbbFi4kqHgZnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="natã batista" height="30" width="40" /></a>
 </p>
-
-
-  <h3 align="center">POSSUO GRANDE INTERESSE EM HACKING, E ESTOU ESTUDANDO <p> PARA APRENDER MAIS SOBRE ESSA ÁREA</p></h3>
-  <p align="center">
-  <img src="https://c.tenor.com/ofYCY_OJQ1kAAAAd/hacker-hack.gif" width="350" height="150" />
-  <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif" width="150" height="150" />
-  </p>
