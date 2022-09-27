@@ -17,5 +17,3 @@
 <p align="center">
 <a href="https://instagram.com/batista29_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batista29_" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCrKGX-Oo1nxbbFi4kqHgZnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="natã batista" height="30" width="40" /></a>
 </p>
-
-<img src="https://i.pinimg.com/originals/5a/fb/90/5afb902abaca0ea0ad194bd2ca19e628.gif" alt="html5" height="150em"/>
