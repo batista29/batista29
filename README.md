@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-<img height="150em" src="../gifs/myname.gif"/>
+[![Watch the video](https://github.com/batista29/batista29/blob/main/gifs/myname.mp4)
 </p>
