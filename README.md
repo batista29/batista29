@@ -1,4 +1,4 @@
-<h2 align="center"> Olá, sou o Batista, atualmente estou cursando o curso <br>Téc. de Desenvolvimento de Sistemas (SENAI) & Téc. de Informática (NOVOTEC).</h2>
+<p align="center"> <img src="https://github.com/batista29/batista29/blob/main/gifs/myname.gif "height="250em"/></p>
 
 <div align="center"> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,4 +17,3 @@
 <p align="center">
 <a href="https://instagram.com/batista29_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batista29_" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCrKGX-Oo1nxbbFi4kqHgZnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="natã batista" height="30" width="40" /></a>
 </p>
-<img src="https://github.com/batista29/batista29/blob/main/gifs/myname.gif "height="150em"/>
