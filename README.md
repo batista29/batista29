@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-<img height="150em" src="../gifs/myname.mp4"/>
+<img height="150em" src="../gifs/myname.gif"/>
 </p>
