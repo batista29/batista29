@@ -1,5 +1,10 @@
 <p align="center"> <img src="https://github.com/batista29/batista29/blob/main/gifs/myname.gif "height="350em"/></p>
 
+<div align="center"> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
