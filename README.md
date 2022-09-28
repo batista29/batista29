@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/batista29/batista29/blob/main/gifs/myname.gif "height="250em"/></p>
+<p align="center"> <img src="https://github.com/batista29/batista29/blob/main/gifs/myname.gif "height="250em" width="100em"/></p>
 
 <div align="center"> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
