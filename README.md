@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-<img height="150em" src="gifs/entradagit.gif"/>
+<img height="150em" src="./gifs/entradagit.gif"/>
 </p>
