@@ -14,6 +14,3 @@ I'm currently learning Javascript | NodeJs | MySQL | Python | HTML | CSS
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-[![](https://visitcount.itsvg.in/api?id=batista29&icon=2&color=2)](https://visitcount.itsvg.in)
