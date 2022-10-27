@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Javascript | NodeJs | MySQL | Python | HTML | CSS
+I'm currently learning Javascript | NodeJs | React Native | MySQL | Python | HTML | CSS
 
 
 ## 🌐 Socials:
