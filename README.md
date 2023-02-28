@@ -4,8 +4,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact&langs_count=7&theme=dark"/>
 </div>
   </br>
-  <img align="right" alt="Anime" height="150" style="border-radius:75px;" src="https://forum.politz.com.br/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FMI721uZ.gif&hash=1127c0fe1655fb27232b8f176c20dae7">
-
   
   ##
  
