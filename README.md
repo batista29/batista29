@@ -6,7 +6,7 @@
 </ul>
 <h2>Some skills 🎯</h2>
 <ul>
-  <li><b>💻 Mobile and BACK-END developer</b></li>
+  <li><b>💻FullStack developer</b></li>
  </ul>
  <h2>GitHub Stats 📈</h2>
 <div align="center">
