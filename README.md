@@ -1,4 +1,4 @@
-<h1>Welcome to my GitHub profile❗<img height="105" align="right" src="https://dsgsantos1.github.io/Projeto-DW1/images/super-choque-in-love.png"/></h1>
+<h1>Welcome to my GitHub profile❗<img height="75" align="right" src="https://dsgsantos1.github.io/Projeto-DW1/images/super-choque-in-love.png"/></h1>
 <ul>
   <li><b>👋 I am Natã Batista, a beginner developer</b></li>
   <li><b>👨‍🎓 Currently studying at <i>SENAI</i></b></li>
