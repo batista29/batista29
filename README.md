@@ -1,4 +1,4 @@
-<img height="200" align="right" src="https://static.wikia.nocookie.net/rpg-the-king-of-cartoons-2/images/4/42/Mangeky%C5%8D_Sharingan.gif/revision/latest?cb=20191116044555&path-prefix=pt-br"/>
+<div align="center"><img height="200" align="right" src="https://static.wikia.nocookie.net/rpg-the-king-of-cartoons-2/images/4/42/Mangeky%C5%8D_Sharingan.gif/revision/latest?cb=20191116044555&path-prefix=pt-br"/></div>
  <h2>GitHub Stats 📈</h2>
 <div align="center">
   <a href="https://github.com/batista29">
