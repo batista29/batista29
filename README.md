@@ -1,8 +1,4 @@
-<img height="100" align="right" src="https://static.wikia.nocookie.net/rpg-the-king-of-cartoons-2/images/4/42/Mangeky%C5%8D_Sharingan.gif/revision/latest?cb=20191116044555&path-prefix=pt-br"/>
-
-</br>
-  
-  <h2>GitHub Stats 📈</h2>
+<h2>My GitHub Stats 📈</h2>
   
 <div align="center">
 
