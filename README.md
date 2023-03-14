@@ -9,7 +9,7 @@
     </br>
     
   <div align="center">
-<img height="366em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
+<img height="244em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
   </div>
   
     </br>
