@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=batista29&label=PROFILE+VIEWS)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=batista29
 
 <div> 
  
