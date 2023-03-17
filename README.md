@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=batista29&style=flat-square)
+![](https://komarev.com/ghpvc/?username=batista29&label=PROFILE+VIEWS)
 
 <div> 
  
