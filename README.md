@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffa500&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Natã+Batista+Fernandes;I'm+17+years+old;I+am+from+Jaguariúna,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffa500&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Natã+Batista+Fernandes;I'm+17+years+old;I+am+from+Jaguariúna,+SP;I+study+systems+development+at+Senai;and+informatics+in+high+school;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=batista29&theme=gotham)
 
