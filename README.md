@@ -4,10 +4,6 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=batista29&theme=gotham)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=batista29&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{batista29}/count.svg" /></p> 
