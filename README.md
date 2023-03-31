@@ -9,9 +9,9 @@
   <img height="45" src="https://logospng.org/download/java/logo-java-512.png"/>
   <img height="45" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
   <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>
-  <img height="45" src="https://usemobile.com.br/wp-content/uploads/2022/08/react-native-logo.png"/>
-  <img height="45" src="https://assets.stickpng.com/images/5848104fcef1014c0b5e4950.png"/>
   <img height="45" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>
+  <img height="45" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"/>
+  <img height="45" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png"/>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
