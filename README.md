@@ -5,9 +5,11 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=batista29&theme=gotham)
 
 <br>
+  <div align="center">
 <img height="122em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact&langs_count=7&theme=radical"/>
   <img height="122em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="122em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
+  </div>
   <br>
   <div align="center">
   <img height="50" src="https://logospng.org/download/java/logo-java-512.png"/>
@@ -21,7 +23,8 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{batista29}/count.svg" /></p> 
-<br></div>
+<br>
+ </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
