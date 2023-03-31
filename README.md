@@ -9,16 +9,14 @@
   <img height="122em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="122em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
   <br>
+  <div align="center">
   <img height="50" src="https://logospng.org/download/java/logo-java-512.png"/>
   <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
   <img height="45" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>
-  &#8287
-  &#8287
-  &#8287
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img height="35" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
-
+</div>
 <br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
