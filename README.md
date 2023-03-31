@@ -9,6 +9,7 @@
   <img height="45" src="https://logospng.org/download/java/logo-java-512.png"/>
   <img height="45" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
   <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>
+    <img height="45" src="https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png"/>
   <img height="45" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
