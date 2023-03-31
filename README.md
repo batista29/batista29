@@ -7,7 +7,6 @@
 <br>
   <div align="center">
   <img height="50" src="https://logospng.org/download/java/logo-java-512.png"/>
-  <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
   <img height="45" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
