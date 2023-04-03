@@ -15,11 +15,13 @@
   <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
+
+  <br>
+  
   <div align="center">
   <img height="172em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
    </div>
-   
-  <br>
+ 
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
