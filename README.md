@@ -15,7 +15,12 @@
   <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
-  
+  <div align="center">
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact&langs_count=7&theme=radical"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="172em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
+   </div>
+   
   <br>
   
 <div align="center">
@@ -23,12 +28,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{batista29}/count.svg" /></p> 
 <br>
  </div>
- 
- <div align="center">
-<img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact&langs_count=7&theme=radical"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=batista29&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="172em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
-  </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
