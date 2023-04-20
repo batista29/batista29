@@ -19,7 +19,7 @@
   <br>
   
   <div align="center">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact&langs_count=2000&theme=radical"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&theme=tokyonight)
   <img height="152em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
    </div>
  
