@@ -19,7 +19,7 @@
   <br>
   
   <div align="center">
-  ![batista29's github stats](https://github-readme-stats.vercel.app/api?username=batista29)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batista29)](https://github.com/batista29/github-readme-stats)
   <img height="152em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
    </div>
  
