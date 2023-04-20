@@ -20,12 +20,11 @@
   
   <div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact)](https://github.com/batista29/github-readme-stats)
-   </div>
- 
-   <div align="center">
-   <img height="152em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
-   </div>
- <img height="152em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
+</div>
+
+<div align="center">
+  <img height="152em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
+</div>
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
