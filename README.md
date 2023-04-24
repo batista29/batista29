@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
- <p><img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&theme=radical&layout=compact/></p>
+ <p><img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula/></p>
 </div>
 
 <div align="center">
