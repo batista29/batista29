@@ -17,8 +17,8 @@
 </div>
 
 <div align="center">
-  <img height="152em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&theme=radical&layout=compact/>
-  <img height="152em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
+  <p><img height="152em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&theme=radical&layout=compact/></p>
+  <p><img height="152em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/></p>
 </div>
   
 <div align="center">
