@@ -4,7 +4,7 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=batista29&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact)](https://github.com/batista29/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact)](https://github.com/batista29/github-readme-stats)]
 
 <br>
   <div align="center">
