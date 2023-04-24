@@ -4,8 +4,6 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=batista29&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact)
-
 <br>
   <div align="center">
   <img height="55" src="https://logospng.org/download/java/logo-java-512.png"/>
@@ -19,6 +17,7 @@
 </div>
 
 <div align="center">
+  <img height="152em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&theme=radical&layout=compact/>
   <img height="152em" src=https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false/>
 </div>
   
