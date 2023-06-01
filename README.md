@@ -4,7 +4,6 @@
   <div align="center">
   <img height="55" src="https://logospng.org/download/java/logo-java-512.png"/>
   <img height="55" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
-  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>
   <img height="55" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>
   <img height="55" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"/>
   <img height="55" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"/>
