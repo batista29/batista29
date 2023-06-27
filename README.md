@@ -12,14 +12,12 @@
 </div>
 
 <div align="center">
- <p><img height="152em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=batista29&layout=compact&theme=dracula'/></p>
   <p><img height="152em" src='https://github-readme-streak-stats.herokuapp.com/?user=batista29&theme=radical&hide_border=false'/></p>
 </div>
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{batista29}/count.svg" /></p> 
-<br>
  </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#02BEF7&height=120&section=footer"/>
