@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hello! My name is Natã Batista, I'm 18 years old, and I'm passionate about technology. I'm a systems development technician from SENAI, and currently, I'm studying software engineering at PUC. I'm focused on deepening my knowledge in Python and Oracle database. Currently, I'm involved in an exciting group project on inventory management, using these technologies. I love tackling technical challenges and learning new skills along the way.</p>
+<p align="left">Hello! My name is Natã Batista, I'm 18 years old, and I'm passionate about technology. I'm a systems development technician from SENAI, and currently, I'm studying software engineering at PUC-CAMP. I'm focused on deepening my knowledge in Python and Oracle database. Currently, I'm involved in an exciting group project on inventory management, using these technologies. I love tackling technical challenges and learning new skills along the way.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
