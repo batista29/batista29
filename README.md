@@ -1,22 +1,27 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#000080&height=120&section=header"/>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Oi! 👋 Como está?</h1>
 
 ###
 
-<p align="left">My name is Natã Batista and I'm a fullstack developer from São Paulo, Brazil.</p>
+<p align="left">Meu nome é Natã Batista e eu sou um desenvolvedor FullStack de Campinas, Brazil.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">Hello! My name is Natã Batista, I'm 18 years old, and I'm passionate about technology. I'm a systems development technician from SENAI, and currently, I'm studying software engineering at PUC-CAMP. I'm focused on deepening my knowledge in C++, Python and Oracle database. Currently, I'm involved in an exciting group project on inventory management, using these technologies. I love tackling technical challenges and learning new skills along the way.</p>
+<p align="left">Olá, meu nome é Natã, tenho 18 anos, estou cursando Engenharia de Software na PUC-Campinas e sou formado no curso Técnico em Desenvolvimento de Sistemas do SENAI e Técnico de informática para Internet que fiz junto ao Ensino médio. 
+
+Meus conhecimentos mais profundos são:
+Javascript, Node.js, Prisma.js, MySQL, React Native, HTML, CSS e EXCEL. No momento estou estudando Python, ORACLE DATABASE, Aplicação de Serviços em Nuvem da Google, Arduino e ESP32 sendo programado com a linguagem Python.
+
+Nesses 2 anos e meio estudando programação, além de estudar as linguagens, aprendi também versionamento de código com o GIT, gerencimento de tempo com softwares de produtividade (trello e Microsoft Planner), criação de requisitos e documentação de projetos.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu programo com:</h2>
 
 ###
 
