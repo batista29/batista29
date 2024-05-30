@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Meu nome é Natã Batista e eu sou um desenvolvedor FullStack de Campinas, Brazil.</p>
+<p align="left">Meu nome é Natã Batista, e eu sou um desenvolvedor FullStack de Campinas, Brasil.</p>
 
 ###
 
