@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Meu nome é Natã Batista, e eu sou um desenvolvedor FullStack de Campinas, Brasil.</p>
+<p align="left">Meu nome é Natã Batista, e eu sou um desenvolvedor FullStack da região de Campinas, Brasil.</p>
 
 ###
 
@@ -20,9 +20,8 @@ Python, Javascript, Node.js, Prisma.js, Java, Oracle (SQL), MySQL, React Native,
 Também possuo bom conhecimento em: <br>
 Google Workspace, Pacote Office, Microsoft Planner e Trello.
 
-Meu github: https://github.com/batista29 <br>
-Meu perfil no Google cloud: https://www.cloudskillsboost.google/public_profiles/5e5bc111-b618-46d1-a2fb-88cdee25d5fb?locale=pt_BR <br>
 Meu perfil no linkedin: https://www.linkedin.com/in/nata-batista/
+Meu perfil no Google cloud: https://www.cloudskillsboost.google/public_profiles/5e5bc111-b618-46d1-a2fb-88cdee25d5fb?locale=pt_BR <br>
 
 Se você se interessou, por favor entre em contato.</p>
 
