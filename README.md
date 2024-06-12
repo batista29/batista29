@@ -12,18 +12,19 @@
 
 ###
 
-<p align="left">Olá, meu nome é Natã, tenho 18 anos, estou cursando Engenharia de Software na PUC-Campinas e sou formado em dois cursos técnicos, Técnico em Desenvolvimento de Sistemas do SENAI e Técnico de informática para Internet que fiz junto ao Ensino médio. 
+<p align="left">Hello, my name is Natã, I'm 18 years old, currently studying Software Engineering at PUC-Campinas, and I hold two technical degrees: one in Systems Development from SENAI and another in Internet Computing, which I pursued alongside high school.
 
-Meus conhecimentos mais profundos são: <br>
-Python, Javascript, Node.js, Prisma.js, Java, Oracle (SQL), MySQL, React Native, HTML, CSS e GIT.
+My expertise lies in: <br>
+Python, Javascript, Node.js, Prisma.js, Java, Oracle (SQL), MySQL, React Native, HTML, CSS, and GIT.
 
-Também possuo bom conhecimento em: <br>
-Google Workspace, Pacote Office, Microsoft Planner e Trello.
+Additionally, I have a good understanding of:<br>
+Google Workspace, Microsoft Office Suite, Microsoft Planner, and Trello.
 
-Meu perfil no linkedin: https://www.linkedin.com/in/nata-batista/
-Meu perfil no Google cloud: https://www.cloudskillsboost.google/public_profiles/5e5bc111-b618-46d1-a2fb-88cdee25d5fb?locale=pt_BR <br>
+You can find my Linkedin profile here: [Linkedin](https://www.linkedin.com/in/nata-batista/)
 
-Se você se interessou, por favor entre em contato.</p>
+And my Google Cloud profile here: [Google Cloud](https://www.cloudskillsboost.google/public_profiles/5e5bc111-b618-46d1-a2fb-88cdee25d5fb?locale=pt_BR)
+
+If you're interested, please feel free to get in touch.
 
 ###
 
