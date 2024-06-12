@@ -14,13 +14,13 @@
 
 <p align="left">Olá, meu nome é Natã, tenho 18 anos, estou cursando Engenharia de Software na PUC-Campinas e sou formado em dois cursos técnicos, Técnico em Desenvolvimento de Sistemas do SENAI e Técnico de informática para Internet que fiz junto ao Ensino médio. 
 
-Meus conhecimentos mais profundos são:
+Meus conhecimentos mais profundos são: <br>
 Python, Javascript, Node.js, Prisma.js, Java, Oracle (SQL), MySQL, React Native, HTML, CSS e GIT.
 
-Também possuo bom conhecimento em:
+Também possuo bom conhecimento em: <br>
 Google Workspace, Pacote Office, Microsoft Planner e Trello.
 
-Meu github: https://github.com/batista29
+Meu github: https://github.com/batista29 <br>
 Meu perfil no Google cloud: https://www.cloudskillsboost.google/public_profiles/5e5bc111-b618-46d1-a2fb-88cdee25d5fb?locale=pt_BR
 
 Se você se interessou, por favor entre em contato.</p>
