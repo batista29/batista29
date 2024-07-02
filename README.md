@@ -15,7 +15,7 @@
 <p align="left">Hello, my name is Natã, I'm 18 years old, currently studying Software Engineering at PUC-Campinas, and I hold two technical degrees: one in Systems Development from SENAI and another in Internet Computing, which I pursued alongside high school.
 
 My expertise lies in: <br>
-Python, Javascript, Node.js, Prisma.js, Java, Oracle (SQL), MySQL, React Native, HTML, CSS, and GIT.
+Python, Javascript, Node.js, Prisma.js, Java, Oracle (SQL), MySQL, React Native, HTML, CSS, POWER BI and GIT.
 
 Additionally, I have a good understanding of:<br>
 Google Workspace, Microsoft Office, Microsoft Planner, and Trello.
