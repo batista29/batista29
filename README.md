@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#000080&height=120&section=header"/>
 
-<h1 align="left">Oi! 👋 Como está?</h1>
+<h1 align="left">Hi! 👋 How are you?</h1>
 
 ###
 
-<p align="left">Meu nome é Natã Batista, e eu sou um desenvolvedor FullStack da região de Campinas, Brasil.</p>
+<p align="left">My name is Natã Batista, and I am a FullStack developer from the Campinas region, Brazil.</p>
 
 ###
 
