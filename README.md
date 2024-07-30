@@ -18,7 +18,7 @@ My expertise lies in: <br>
 Python, Javascript, Node.js, Prisma.js, Java, Oracle (SQL), MySQL, React Native, HTML, CSS, POWER BI and GIT.
 
 Additionally, I have a good understanding of:<br>
-Google Workspace, Microsoft Office, Microsoft Planner, and Trello.
+Google Workspace, Microsoft Office, Microsoft Planner and Trello.
 
 You can find my Linkedin profile here: [Linkedin](https://www.linkedin.com/in/nata-batista/)
 
