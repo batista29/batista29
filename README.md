@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C and Typescript.</p>
+<p align="left">📚 I'm currently learning C++, Typescript and Node.</p>
 
 ###
 
