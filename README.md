@@ -10,7 +10,17 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C++, Typescript and Node.</p>
+<p align="left">📚 I'm currently learning more about Cloud, C++, Typescript and Node.</p>
+
+###
+
+###
+
+<h2 align="left">Languags</h2>
+
+###
+
+<p align="left">📚 I speak portuguese and now i'm learning English and German</p>
 
 ###
 
