@@ -2,14 +2,6 @@
 
 ###
 
-<p align="left">My name is Natã and I'm a fullstack developer, from Brazil.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">📚 I'm a full-stack developer from Brazil. I work with Python, JavaScript, NodeJS, React, React Native, MySQL, and Oracle. <br/> I'm currently learning more about Cloud, TypeScript, and Power BI. I am also studying English and German. My native language is Portuguese.</p>
 
 ###
