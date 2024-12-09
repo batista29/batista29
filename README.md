@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Natã and I'm a fullstack developer, from Campinas.</p>
+<p align="left">My name is Natã and I'm a data and cloud engineer jr, from Campinas.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating solutions since 2022<br>📚 I'm currently learning C</p>
+<p align="left">✨ Creating solutions since 2022<br>📚 I'm currently learning Python with data libraries</p>
 
 ###
 
