@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating solutions since 2022<br>📚 I'm currently learning Python with data libraries</p>
+<p align="left">✨ Creating solutions since 2022<br>📚 I'm currently learning Python for data structure and data analysis<br>📚 I'm currently learning English and Spanish</p>
 
 ###
 
