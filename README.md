@@ -14,7 +14,7 @@ Sou estudante de **Engenharia de Software** na PUC Campinas e apaixonado por tec
 
 Aqui estão alguns dos meus projetos:
 
-- [Rede Social para Atletas](https://github.com/batista29/tcc): Uma plataforma para interação entre atletas, permitindo o compartilhamento de treinos, dicas e progressos.
+- [Rede Social para Atletas](https://github.com/batista29/tcc-senai): Uma plataforma para interação entre atletas, permitindo o compartilhamento de treinos, dicas e progressos.
   - **Tecnologias**: **JavaScript**, **Node.js**, **PRISMAJS**, **MySQL**, **HTML**, **CSS**
   
 - [Gerenciador de Estacionamento](https://github.com/batista29/trabalhoEstacionamento): Sistema para gerenciamento de vagas de estacionamento em tempo real.
