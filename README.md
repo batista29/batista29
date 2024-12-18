@@ -4,7 +4,7 @@ Sou estudante de **Engenharia de Software** na PUC Campinas e apaixonado por tec
 
 ## Sobre mim
 
-- 🎓 **Formado em Técnico em Desenvolvimento de Sistemas e Técnico em Informática para Internet** pelo SENAI.
+- 🎓 **Formado em Técnico em Desenvolvimento de Sistemas pelo SENAI e Técnico em Informática para Internet pela PROZ**.
 - 💻 **Linguagens de Programação**: **JavaScript**, **Node.js**, **TypeScript**, **Python**, **C**, MySQL, **Oracle**, HTML, CSS.
 - ☁️ **Interesse em Cloud**: Adoro a flexibilidade e a escalabilidade que a computação em nuvem oferece.
 - 📊 **Análise de Dados**: Iniciante em ciência de dados, com projetos voltados para análise de dados e ferramentas como Power BI. Atualmente aprendendo **Pandas** e **Matplotlib**.
@@ -33,7 +33,6 @@ Aqui estão alguns dos meus projetos:
 
 ## Vamos Conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/natã-batista-fernandes)
-- [Twitter](https://twitter.com/natabfernandes)
+- [LinkedIn](https://www.linkedin.com/in/nata-batista)
 
 🚀 Estou sempre buscando aprender coisas novas e contribuir para projetos interessantes. Se você tem alguma oportunidade ou apenas quer bater um papo sobre tecnologia, fique à vontade para me contactar!
