@@ -17,10 +17,10 @@ Aqui estão alguns dos meus projetos:
 - [Rede Social para Atletas](https://github.com/batista29/tcc): Uma plataforma para interação entre atletas, permitindo o compartilhamento de treinos, dicas e progressos.
   - **Tecnologias**: **JavaScript**, **Node.js**, **PRISMAJS**, **MySQL**, **HTML**, **CSS**
   
-- **Gerenciador de Estacionamento**: Sistema para gerenciamento de vagas de estacionamento em tempo real.
+- [Gerenciador de Estacionamento](https://github.com/batista29/trabalhoEstacionamento): Sistema para gerenciamento de vagas de estacionamento em tempo real.
   - **Tecnologias**: **JavaScript**, **Node.js**, **PRISMAJS**, **MySQL**, **HTML**, **CSS**
 
-- **Casa de Apostas**: Um sistema para gerenciamento de apostas online.
+- [Casa de Apostas](https://github.com/batista29/Footbet/tree/main): Um sistema para gerenciamento de apostas online.
   - **Tecnologias**: **TypeScript**, **JavaScript**, **Node.js**, **MySQL**, **HTML**, **CSS**
 
 ## Habilidades
