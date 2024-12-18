@@ -1,62 +1,39 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Olá, sou o Natã Batista Fernandes 👋
 
-###
+Sou estudante de **Engenharia de Software** na PUC Campinas e apaixonado por tecnologia, com foco em **desenvolvimento de software** e **ciência de dados**. Atualmente, estou buscando uma oportunidade de estágio para aplicar meus conhecimentos e crescer profissionalmente.
 
-<p align="left">My name is Natã and I'm a fullstack developer, from Campinas.</p>
+## Sobre mim
 
-###
+- 🎓 **Formado em Técnico em Desenvolvimento de Sistemas e Técnico em Informática para Internet** pelo SENAI.
+- 💻 **Linguagens de Programação**: **JavaScript**, **Node.js**, **TypeScript**, **Python**, **C**, MySQL, **Oracle**, HTML, CSS.
+- ☁️ **Interesse em Cloud**: Adoro a flexibilidade e a escalabilidade que a computação em nuvem oferece.
+- 📊 **Análise de Dados**: Iniciante em ciência de dados, com projetos voltados para análise de dados e ferramentas como Power BI. Atualmente aprendendo **Pandas** e **Matplotlib**.
+- 🌐 **Idiomas**: **Inglês Intermediário**, **Espanhol Básico**.
 
-<h2 align="left">About me</h2>
+## Projetos
 
-###
+Aqui estão alguns dos meus projetos:
 
-<p align="left">✨ Creating solutions since 2022<br>📚 I'm currently learning Python with Pandas and Matplotlib</p>
+- **Rede Social para Atletas**: Uma plataforma para interação entre atletas, permitindo o compartilhamento de treinos, dicas e progressos.
+  - **Tecnologias**: **JavaScript**, **Node.js**, **PRISMAJS**, **MySQL**, **HTML**, **CSS**
+  
+- **Gerenciador de Estacionamento**: Sistema para gerenciamento de vagas de estacionamento em tempo real.
+  - **Tecnologias**: **JavaScript**, **Node.js**, **PRISMAJS**, **MySQL**, **HTML**, **CSS**
 
-###
+- **Casa de Apostas**: Um sistema para gerenciamento de apostas online.
+  - **Tecnologias**: **TypeScript**, **JavaScript**, **Node.js**, **MySQL**, **HTML**, **CSS**
 
-<h2 align="left">I code with</h2>
+## Habilidades
 
-###
+- **Programação**: **JavaScript**, **Node.js**, **TypeScript**, **Python**, **C**, MySQL, **Oracle**, HTML, CSS.
+- **Cloud**: Google Cloud, Microsoft Azure (cursos DP-900 e Implantação de Serviços em Nuvem).
+- **Ferramentas de Análise de Dados**: Power BI, **Pandas**, **Matplotlib**.
+- **Metodologias Ágeis**: Scrum.
+- **Outros**: Banco de Dados Relacional, **Pacote Office**, **Google Workspace**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+## Vamos Conectar?
 
-###
+- [LinkedIn](https://www.linkedin.com/in/natã-batista-fernandes)
+- [Twitter](https://twitter.com/natabfernandes)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batista29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=batista29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=batista29&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batista29&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/batista29/count.svg?"  />
-</div>
-
-###
+🚀 Estou sempre buscando aprender coisas novas e contribuir para projetos interessantes. Se você tem alguma oportunidade ou apenas quer bater um papo sobre tecnologia, fique à vontade para me contactar!
