@@ -7,8 +7,8 @@ Sou estudante de **Engenharia de Software** na PUC Campinas e apaixonado por tec
 - 🎓 **Formado em Técnico em Desenvolvimento de Sistemas pelo SENAI e Técnico em Informática para Internet pela PROZ**.
 - 💻 **Linguagens de Programação**: **JavaScript**, **Node.js**, **TypeScript**, **Python**, **C**, MySQL, **Oracle**, HTML, CSS.
 - ☁️ **Interesse em Cloud**: Adoro a flexibilidade e a escalabilidade que a computação em nuvem oferece.
-- 📊 **Análise de Dados**: Iniciante em ciência de dados, com projetos voltados para análise de dados e ferramentas como Power BI. Atualmente aprendendo **Pandas** e **Matplotlib**.
-- 🌐 **Idiomas**: **Inglês Intermediário**, **Espanhol Básico**.
+- 📊 **Análise de Dados**: Iniciante em ciência de dados, com projetos voltados para análise de dados e ferramentas como Power BI. Atualmente aprendendo **Pandas**, **Matplotlib** e **Estatística**.
+- 🌐 **Idiomas**: **Inglês B2**, **Espanhol A2** e **Alemão A1**.
 
 ## Projetos
 
@@ -34,5 +34,6 @@ Aqui estão alguns dos meus projetos:
 ## Vamos Conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/nata-batista)
+- [LeetCode](https://leetcode.com/u/batista29_/)
 
 🚀 Estou sempre buscando aprender coisas novas e contribuir para projetos interessantes. Se você tem alguma oportunidade ou apenas quer bater um papo sobre tecnologia, fique à vontade para me contactar!
