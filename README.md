@@ -14,14 +14,17 @@ Sou estudante de **Engenharia de Software** na PUC Campinas e apaixonado por tec
 
 Aqui estão alguns dos meus projetos:
 
+- [Casa de Apostas](https://github.com/batista29/Footbet/tree/main): Um sistema para gerenciamento de apostas online.
+  - **Tecnologias**: **TypeScript**, **JavaScript**, **Node.js**, **MySQL**, **HTML**, **CSS**
+  - 
 - [Rede Social para Atletas](https://github.com/batista29/tcc-senai): Uma plataforma para interação entre atletas, permitindo o compartilhamento de treinos, dicas e progressos.
   - **Tecnologias**: **JavaScript**, **Node.js**, **PRISMAJS**, **MySQL**, **HTML**, **CSS**
+ 
+- [Decisão apóes Bacharelado](https://github.com/batista29/DATA-MBA-after-Bachelor): Análise de Dados de estudantes após fazer Bacharelado.
+  - **Tecnologias**: **POWER BI** e **EXCEL**
   
 - [Gerenciador de Estacionamento](https://github.com/batista29/trabalhoEstacionamento): Sistema para gerenciamento de vagas de estacionamento em tempo real.
   - **Tecnologias**: **JavaScript**, **Node.js**, **PRISMAJS**, **MySQL**, **HTML**, **CSS**
-
-- [Casa de Apostas](https://github.com/batista29/Footbet/tree/main): Um sistema para gerenciamento de apostas online.
-  - **Tecnologias**: **TypeScript**, **JavaScript**, **Node.js**, **MySQL**, **HTML**, **CSS**
 
 ## Habilidades
 
