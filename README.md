@@ -20,7 +20,7 @@ Aqui estão alguns dos meus projetos:
 - [Rede Social para Atletas](https://github.com/batista29/tcc-senai): Uma plataforma para interação entre atletas, permitindo o compartilhamento de treinos, dicas e progressos.
   - **Tecnologias**: **JavaScript**, **Node.js**, **PRISMAJS**, **MySQL**, **HTML**, **CSS**
  
-- [Decisão apóes Bacharelado](https://github.com/batista29/DATA-MBA-after-Bachelor): Análise de Dados de estudantes após fazer Bacharelado.
+- [Decisão após Bacharelado](https://github.com/batista29/DATA-MBA-after-Bachelor): Análise de Dados de estudantes após fazer Bacharelado.
   - **Tecnologias**: **POWER BI** e **EXCEL**
   
 - [Gerenciador de Estacionamento](https://github.com/batista29/trabalhoEstacionamento): Sistema para gerenciamento de vagas de estacionamento em tempo real.
