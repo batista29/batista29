@@ -47,16 +47,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/batista29/batista29/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/batista29/batista29/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/batista29/batista29/snake-output/snake.svg" alt="Snake animation" />
-
-###
