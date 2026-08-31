@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Natã and I'm a Data scientist and researcher, from Campinas, Brasil.</p>
+<p align="left">My name is Natã and I'm a Developer, Data scientist and researcher, from Campinas, Brasil.</p>
 
 ###
 </div>
