@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">✨ Devoloping since 2022<br>📚 I'm currently learning PyTorch and TensorFlow</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
